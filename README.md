@@ -52,6 +52,7 @@ python -c "import torch; print(torch.cuda.is_available())"
 conda activate yolov11_Image_Search
 streamlit run app.py
 ```
+<img width="1112" height="343" alt="image" src="https://github.com/user-attachments/assets/9936d714-ff48-4ca4-b11e-1f0dd93deb66" />
 
 ## 	How to Deploy using Streamlit:
 ```
